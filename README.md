@@ -5,6 +5,12 @@
 
 Mpuza is designed to connect professionals across Rwanda and beyond. This login component is built with a "Mobile-First" philosophy, ensuring that whether a user is accessing the platform from a smartphone in Kigali or a workstation abroad, the experience remains consistent and professional.
 
+---
+
+## Screenshot of output
+
+![Here should be an output](out.png)
+
 ##  Key Features
 * **Contextual Inputs:** Icon-integrated input fields for intuitive data entry.
 * **Password Visibility:** Built-in toggle support for user convenience.
